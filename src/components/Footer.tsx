@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-8 xl:col-span-1">
             <div className="flex items-center">
               <CreditCard className="h-8 w-auto text-green-400" />
-              <span className="ml-2 text-xl font-bold text-white">Ramp</span>
+              <span className="ml-2 text-xl font-bold text-white">ZipCord</span>
             </div>
             <p className="text-gray-300 text-base">
               Simplifying expense management and financial operations for businesses with a modern corporate card solution.
@@ -143,7 +143,7 @@ const Footer = () => {
         </div>
         <div className="mt-12 border-t border-gray-700 pt-8">
           <p className="text-base text-gray-400 xl:text-center">
-            &copy; 2025 Ramp, Inc. All rights reserved.
+            &copy; 2025 ZipCord, Inc. All rights reserved.
           </p>
         </div>
       </div>

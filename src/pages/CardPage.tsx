@@ -36,7 +36,7 @@ const CardPage = () => {
                   <div className="relative">
                     <img
                       src="https://images.unsplash.com/photo-1613243555988-441166d4d6fd?auto=format&fit=crop&q=80&w=2940"
-                      alt="Ramp Corporate Card"
+                      alt="ZipCord Corporate Card"
                       className="w-full rounded-xl shadow-2xl"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent rounded-xl flex items-end p-6">
@@ -201,13 +201,13 @@ const CardPage = () => {
               <div className="p-6">
                 <h3 className="text-lg font-medium text-gray-900">Receipt Management</h3>
                 <p className="mt-2 text-gray-500">
-                  All transactions require receipt submission within 48 hours through the Ramp mobile app or web portal.
+                  All transactions require receipt submission within 48 hours through the ZipCord mobile app or web portal.
                 </p>
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-medium text-gray-900">Lost or Stolen Cards</h3>
                 <p className="mt-2 text-gray-500">
-                  Report immediately through the Ramp portal or contact support at 1-800-RAMP-HELP.
+                  Report immediately through the ZipCord portal or contact support at 1-800-ZipCord-HELP.
                 </p>
               </div>
             </div>
